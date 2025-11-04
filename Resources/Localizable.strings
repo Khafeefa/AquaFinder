@@ -1,0 +1,104 @@
+// MARK: - Common UI Elements
+"Cancel" = "Cancel";
+"Done" = "Done";
+"Close" = "Close";
+"Save" = "Save";
+"Delete" = "Delete";
+"Edit" = "Edit";
+"Share" = "Share";
+"Settings" = "Settings";
+"OK" = "OK";
+"Yes" = "Yes";
+"No" = "No";
+
+// MARK: - RootView
+"Map" = "Map";
+"List" = "List";
+"Info" = "Info";
+
+// MARK: - MapScreen
+"AquaFind" = "AquaFind";
+"Recenter" = "Recenter";
+"Add Fountain" = "Add Fountain";
+
+// MARK: - FountainDetailSheet
+"Water Fountain Details" = "Water Fountain Details";
+"Distance" = "Distance";
+"Accessibility" = "Accessibility";
+"Quality" = "Quality";
+"Temperature" = "Temperature";
+"Bottle Filler" = "Bottle Filler";
+"Pet Friendly" = "Pet Friendly";
+"Operating Hours" = "Operating Hours";
+"Type" = "Type";
+"Notes" = "Notes";
+"No notes available" = "No notes available";
+"Photos" = "Photos";
+"No photos available" = "No photos available";
+"Get Directions" = "Get Directions";
+"Report Issue" = "Report Issue";
+
+// MARK: - FountainsListView
+"Nearby Fountains" = "Nearby Fountains";
+"No fountains found nearby" = "No fountains found nearby";
+"Try moving to a different location" = "Try moving to a different location";
+"Show on Map" = "Show on Map";
+
+// MARK: - InfoView
+"About AquaFind" = "About AquaFind";
+"AquaFind helps you discover water fountains near you. Stay hydrated wherever you go!" = "AquaFind helps you discover water fountains near you. Stay hydrated wherever you go!";
+"Features" = "Features";
+"Find nearby water fountains" = "Find nearby water fountains";
+"View fountain details and photos" = "View fountain details and photos";
+"Get directions to fountains" = "Get directions to fountains";
+"Add new fountains to help the community" = "Add new fountains to help the community";
+"Filter fountains by accessibility and features" = "Filter fountains by accessibility and features";
+"How to Use" = "How to Use";
+"Grant location permissions for the best experience" = "Grant location permissions for the best experience";
+"Tap on a marker to see fountain details" = "Tap on a marker to see fountain details";
+"Use the list view to browse all nearby fountains" = "Use the list view to browse all nearby fountains";
+"Contribute by adding new fountains you discover" = "Contribute by adding new fountains you discover";
+"Support" = "Support";
+"Need help? Contact us at support@aquafind.com" = "Need help? Contact us at support@aquafind.com";
+"Version" = "Version";
+
+// MARK: - Fountain Model - FountainType
+"Public" = "Public";
+"Private" = "Private";
+"Park" = "Park";
+"School" = "School";
+"Commercial" = "Commercial";
+"Other" = "Other";
+
+// MARK: - Fountain Model - AccessibilityLevel
+"Wheelchair Accessible" = "Wheelchair Accessible";
+"Partially Accessible" = "Partially Accessible";
+"Not Accessible" = "Not Accessible";
+"Unknown" = "Unknown";
+
+// MARK: - Fountain Model - WaterQuality
+"Excellent" = "Excellent";
+"Good" = "Good";
+"Fair" = "Fair";
+"Poor" = "Poor";
+
+// MARK: - Fountain Model - WaterTemperature
+"Cold" = "Cold";
+"Cool" = "Cool";
+"Room Temperature" = "Room Temperature";
+"Warm" = "Warm";
+
+// MARK: - Settings
+"Miles" = "Miles";
+"Kilometers" = "Kilometers";
+"Meters" = "Meters";
+
+// MARK: - LocationManager
+"Location authorization status changed" = "Location authorization status changed";
+
+// MARK: - Distance Format
+"mi" = "mi";
+"km" = "km";
+"m" = "m";
+"ft" = "ft";
+"away" = "away";
